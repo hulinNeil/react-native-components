@@ -4,3 +4,4 @@
 * Toast 消失提示框
 * VideoPlayer 视频播放器
 * Dotted 虚线
+* TouchableRipple 有墨水涟漪效果的触摸组件
