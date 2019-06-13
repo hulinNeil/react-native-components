@@ -1,0 +1,26 @@
+{
+  "name": "react-native-components",
+  "version": "1.0.0",
+  "description": "react-native-components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hulinNeil/react-native-components.git"
+  },
+  "keywords": [
+    "react-native",
+    "components"
+  ],
+  "author": "hulin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hulinNeil/react-native-components/issues"
+  },
+  "homepage": "https://github.com/hulinNeil/react-native-components#readme",
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
